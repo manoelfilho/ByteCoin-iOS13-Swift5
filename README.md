@@ -2,7 +2,7 @@
 App IOS para retorno do valor atual do Bitcoin de acordo com a moeda selecionada com o uso da API coinapi.io
 Aplicativo criado com o auxílio do curso https://www.appbrewery.co
 
-![alt text](Documentation/layout.png "Layout do APP")
+![Resultado final](Documentation/layout.png)
 
 # Instalação
 1- Crie uma conta no site https://www.coinapi.io
