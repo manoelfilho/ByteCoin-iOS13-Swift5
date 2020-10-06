@@ -1,11 +1,3 @@
-//
-//  CoinManager.swift
-//  ByteCoin
-//
-//  Created by Angela Yu on 11/09/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
-//
-
 import Foundation
 
 struct CoinManager {
@@ -13,7 +5,7 @@ struct CoinManager {
     var delegate: CoinManagerDelegate?
     
     let baseURL = "https://rest.coinapi.io/v1/exchangerate/BTC"
-    let apiKey = "9BDC85DD-EBFC-443E-8137-C08AB62BB956"
+    let apiKey = K.coinapiKey
     
     let currencyArray = ["AUD", "BRL","CAD","CNY","EUR","GBP","HKD","IDR","ILS","INR","JPY","MXN","NOK","NZD","PLN","RON","RUB","SEK","SGD","USD","ZAR"]
     
