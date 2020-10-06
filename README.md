@@ -1,4 +1,4 @@
-![Resultado final](Documentation/layout.png)
+![Resultado final](https://github.com/manoelfilho/ByteCoin-iOS13-Swift5/blob/master/Documentation%20/layout.png)
 
 # ByteCoin-iOS13-Swift5
 App IOS para retorno do valor atual do Bitcoin de acordo com a moeda selecionada com o uso da API coinapi.io
