@@ -25,7 +25,8 @@ IOS app for returning the current value of Bitcoin according to the selected cur
 Application created with the help of the course https://www.appbrewery.co
 
 # Installation
-1 - Create an account on the website https://www.coinapi.io
+1 - Create an account on the website https://www.coinapi.io.
+
 2 - In possession of the Key, edit the ByteCoin / Constants_example.swift file by placing your key:
 
 ```swift
