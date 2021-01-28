@@ -1,12 +1,13 @@
+
 # ByteCoin-iOS13-Swift5
 App IOS para retorno do valor atual do Bitcoin de acordo com a moeda selecionada com o uso da API coinapi.io
+
 Aplicativo criado com o auxílio do curso https://www.appbrewery.co
 
 ![Resultado final](https://github.com/manoelfilho/ByteCoin-iOS13-Swift5/blob/master/Documentation%20/layout.png)
 
 # Instalação
 1 - Crie uma conta no site https://www.coinapi.io.
-
 2 - De posse da Key edite o arquivo ByteCoin/Constants_example.swift colocando a sua chave:
 
 ```swift
